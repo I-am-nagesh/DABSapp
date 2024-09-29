@@ -5,7 +5,6 @@ import { AppContext } from "../context/AppContext";
 import { useState } from "react";
 import { useEffect } from "react";
 import { assets } from "../assets/assets";
-import { P } from "caniuse-lite/data/agents";
 import RelatedDoctors from "../components/RelatedDoctors";
 
 const Appointment = () => {
